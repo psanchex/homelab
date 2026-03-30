@@ -8,6 +8,6 @@ IP= 0.0.0.0
 
 
 
-## Steps iniciais
+### Steps iniciais
 - sudo apt update
 - sudo apt updgrade
