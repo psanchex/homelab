@@ -1,5 +1,9 @@
-# homelab
-homelab
+#Homelab
+
+## media server VPS
+VPS contratada na Hetzner
+IP= 0.0.0.0
+
 
 
 
