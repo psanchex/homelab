@@ -4,6 +4,6 @@ homelab
 
 
 
-##Steps iniciais
+## Steps iniciais
 - sudo apt update
 - sudo apt updgrade
